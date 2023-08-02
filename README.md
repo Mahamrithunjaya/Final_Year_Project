@@ -1,8 +1,6 @@
 # An Automatic Approach for Fruit Classification and Freshness Detection using Deep Learning
 
-## This project is carried out for the partial fulfillment of the requirement for the award of the degree of Master of Science.
-
-## It's a collaborative effort of my and my classmate(Anindita Sinha).
+## This project is carried out for the partial fulfillment of the requirement for the award of the degree of Master of Science. It's a collaborative effort of my and my classmate(Anindita Sinha).
 
 ## Motivation
 
